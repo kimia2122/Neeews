@@ -1,0 +1,12 @@
+.cseg {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    margin-bottom: 15px;
+    max-height: 120px;
+    width: 600px;
+    cursor: pointer;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+}
